@@ -1,0 +1,710 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@1,600&family=Rock+3D&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+.nav-link{
+    font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    color: #0d0c22;
+    padding-top: 20px;
+    
+
+}
+.nav-item{
+    padding-left: 40px;
+    /* padding-top: 20px; */
+}
+.nav-item:hover{
+  color: #0A67C3 !important;
+}
+.active:hover{
+  color: #0A67C3 !important;
+}
+.fa-cart-shopping{
+  margin-bottom: 10px;
+  color: #2e2987;
+}
+
+
+/* CSS */
+.button-63 {
+    height: 20px;
+  align-items: center;
+  background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
+  border: 0;
+  border-radius: 8px;
+  box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  display: flex;
+  font-family: Phantomsans, sans-serif;
+  font-size: 20px;
+  justify-content: center;
+  line-height: 1em;
+  max-width: 30%;
+  min-width: 80px;
+  padding: 19px 24px;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.button-63:active,
+.button-63:hover {
+  outline: 0;
+}
+
+
+/* CSS */
+.button-63-get-started {
+    height: 50px;
+  align-items: center;
+  background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
+  border: 0;
+  border-radius: 8px;
+  box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  display: flex;
+  font-family: Phantomsans, sans-serif;
+  font-size: 20px;
+  justify-content: center;
+  line-height: 0em;
+  max-width: 50%;
+  min-width: 150px;
+  padding: 15px 20px;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  white-space: nowrap;
+  cursor: pointer;
+}
+.button-63-get-started:active,
+.button-63-get-started:hover {
+  outline: 0;
+}
+
+  
+.hero{
+    width: 100%;
+    height: 90vh;
+    /* background-color: red; */
+}
+.hero-image {
+    padding-top: 130px;
+}
+.hero-image-2 {
+  padding-top: 50px;
+}
+.typed-js{
+    /* background-color: red; */
+    width: 100%;
+    height: 20vh;
+    margin: 10px 0;
+
+}
+.start-your{
+    font-family:  'Lora', serif;
+    padding-left: 150px;
+    color: #0D1D28;
+    
+}
+
+.fitness{
+    font-family:  'Lora', serif;
+    padding-left: 150px;
+    color: #0D1D28;
+
+
+
+}
+.us{
+    font-family:  'Lora', serif;
+    padding-left: 150px;
+    color: #0D1D28;
+
+
+
+}
+.hero-para{
+    font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    color: #666666; 
+
+}
+.hero-para-div{
+    margin-top: 10px;
+    /* background-color:red; */
+    width: 100%;
+    height: 30%;
+    padding-left: 150px;
+}
+.get-started-btn{
+    margin-top: 30px;
+    width: 50%;
+    height: 50%;
+    padding-left: 270px;
+}
+
+.typed-js-child{
+    
+    /* margin-top: 30px; */
+    position: absolute;
+    top: 140px;
+    left: 270px;
+    /* background-color: yellow; */
+    font-family:  'Lora', serif;
+    font-size: 50px;
+    color: #9640FB;
+
+}
+.space{
+  width: 100%;
+  height: 10vh;
+  /* background-color: red; */
+}
+.trainer-head{
+  padding-top: 30px;
+  width: 100%;
+  height: 20vh;
+  /* background-color: red; */
+}
+.trainer-head{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40px;
+  
+}
+.divider{
+  width: 100%;
+  height: 2px;
+  background-color: black;
+}
+.get-trainer{
+  margin: 20px 0;
+}
+.trainer-head-child{
+  margin-top: 30px;
+}
+.trainer-head-child h1{
+  margin-top: 40px;
+  font-family: 'Roboto Mono';
+  font-size: 45px !important;
+  font-weight: 600 !important;
+  color: #0D1D28 !important;
+}
+
+
+/* CSS */
+.button-28 {
+  height: 50px ;
+  appearance: none;
+  background-color: transparent;
+  border: 2px solid #314FCE;
+  border-radius: 15px;
+  box-sizing: border-box;
+  color: #314FCE;
+  cursor: pointer;
+  display: inline-block;
+  font-family: Roobert,-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  font-size: 14px;
+  font-weight: 600;
+  line-height: normal;
+  margin: 0 27%;
+  min-height: 40px;
+  min-width: 0;
+  outline: none;
+  padding: 8px 24px;
+  text-align: center;
+  text-decoration: none;
+  transition: all 300ms cubic-bezier(.23, 1, 0.32, 1);
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: 40%;
+  will-change: transform;
+}
+
+.button-28:disabled {
+  pointer-events: none;
+}
+
+.button-28:hover {
+background-color: #36096d;
+border-color: white;
+
+background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
+
+
+  color: #fff;
+  
+  box-shadow: #314FCE;
+  transform: translateY(-5px);
+}
+
+.button-28:active {
+  box-shadow: none;
+  transform: translateY(0);
+}
+
+.counterUpBigDiv{
+  width: 100%;
+  height: 25vh;
+  
+  background-color: #5de6de;
+background-image: linear-gradient(315deg, #5de6de 0%, #b58ecc 74%);
+}
+.footer-box{
+  width: 100%;
+  height: 40vh;
+  color: #0D1D28;
+  background-color: #F2F7FF;
+}
+
+
+
+.about-us{
+  padding: 40px 40px;
+  text-align: left;
+}
+.about-us h2{
+  /* font-family: 'BIZ UDPMincho', serif !important;
+   */
+  font-family: 'Roboto Mono';
+
+  color: #0D1D28;
+}
+.about-us p{
+  /* letter-spacing: 2px;
+   */
+   word-spacing: 2px;
+}
+.location{
+  padding: 40px 60px;
+  text-align: left;
+}
+.location h2{
+  font-family: 'Roboto Mono';
+
+  color: #0D1D28;
+}
+.fonts{
+  display: flex;
+  
+
+}
+.fa-brands{
+  /* color: #314FCE; */
+  height: 60px;
+  width: 60px;
+  justify-content: space-between;
+}
+.fa-facebook{
+  color: #314FCE;
+  height: 80px;
+  width: 60px;
+  /* justify-content: space-between; */
+}
+.fa-instagram{
+  color: #EA6D75;
+  height: 80px;
+  width: 60px;
+  /* justify-content: space-between; */
+}
+.fa-youtube{
+  color :#FF0101;
+}
+.fa-linkedin{
+  color: #0A67C3;
+}
+.footer-img{
+  height: 20vh;
+  position: relative;
+  bottom: 30px;
+}
+.description-box{
+  width: 70%;
+  height: 30vh;
+  /* background-color: red; */
+  margin-left: 210px;
+  border: 1px  black;
+  border-radius: 30px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  /* box-shadow: rgba(0, 0, 0, 0.1) -4px 9px 25px -6px; */
+}
+/* .trainer-photo{
+  width:60%;
+  height: 170px;
+  border-radius: 50%;
+  background-image: url(https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position: center;
+  background-size: cover;
+  background-color: red;
+  margin-top: 25px;
+  margin-left: 40px;
+
+} */
+.trainer-img{
+  border-radius: 50%;
+  height: 170px;
+  width: 190px;
+  margin-top: 25px;
+  margin-left: 40px;
+
+}
+.trainer-desc{
+  margin-top: 20px;
+}
+
+.trainer-desc h1{
+  font-family: 'Lato', sans-serif;
+}
+.trainer-desc p{
+  color: #666666;
+  line-height: 1.7;
+  font-size: 14px;
+}
+.box{
+  height: 300px;
+  margin: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 0 1px #e2e9ed;
+  padding: 60px 10px;
+  position: relative;
+  z-index: 0;
+  transition: 0.2s all;
+
+}
+
+
+
+.box:hover{
+  z-index: 1;
+  box-shadow: 0 8px 50px rgba(0,0,0,0.2);
+  transform: scale(1.05);
+}
+
+.box .avtar{
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+  overflow: hidden;
+  margin: 0 auto 20px;
+}
+
+.box .box-content{
+  margin: 10px 0;
+  
+}
+
+.box .box-content .title{
+  color: #313435;
+  font-family: 'Roboto Mono', sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 1.4rem;
+  margin: 0;
+}
+
+.box .box-content .post{
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  line-height: 2.375rem;
+  color: #6F808A;
+
+
+}
+
+.box .icons{
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  opacity: 0;
+  transform: translateY(10px);
+  transition: 0.2s all;
+}
+
+.box:hover .icons{
+  opacity: 1;
+  transform: translateY(0px);
+}
+
+.box .icons li{
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.box .icons li a{
+  color: #515F65;
+
+}
+/*  */
+@media (max-width: 360px) {
+  .button-63 {
+    font-size: 14px;
+    min-width: 100px;
+    margin: 10px 0 ;
+  }
+}
+@media (min-width: 768px) {
+  .button-63 {
+    font-size: 14px;
+    min-width: 100px;
+  }
+}
+@media (max-width: 768px) {
+  .button-63-get-started {
+    font-size: 14px;
+    width: 200px;
+  }
+}
+@media (max-width: 400px) {
+  .button-63-get-started {
+    position: absolute;
+    right: 30%;
+    font-size: 14px;
+    width: 200px;
+  }
+}
+
+@media (max-width: 500px){
+  body{
+    overflow-x: hidden !important;
+  }
+
+  .start-your{
+    padding-left: 30px;
+  }
+  .fitness{
+    position:relative;
+    right: 120px;
+  }
+  .us{
+    position:relative;
+    right: 120px;
+  }
+  .typed-js{
+    position:relative;
+    right: 230px;
+    bottom: 140px;
+    width: 80%;
+  }
+  .hero-para{
+    position:relative;
+    right: 120px;
+  }
+  
+  .get-started-btn{
+    position:relative;
+    right: 240px;
+  }
+  .responsive{
+    padding-left: 100px;
+  }
+  .footer-box{
+    min-height: 115vh;
+  }
+  .button-63{
+    margin-top: 20px;
+  }
+  
+  
+   
+
+}
+@media (max-width: 768px){
+  .responsive{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
+}
+@media (max-width: 360px){
+  .footer-box{
+   min-height: 110vh ;
+    
+    
+  }
+}
+@media (max-width: 900px){
+  .footer-box{
+    height: 120vh;
+  }
+}
+@media (max-width: 1000px){
+  .footer-box{
+    height: 70vh;
+  }
+}
+@media (max-width: 500px){
+  .description-box{
+    min-height:  60vh;
+    margin-left: 70px;
+    margin-top: 100px;
+    padding: 20px;
+  }
+  
+  .trainer-img{
+   border-radius: 50%;
+   height: 80px;
+   width: 80px;
+   margin-top: 25px;
+   margin-left: 40px;
+ 
+   }
+   }
+   @media (min-width: 501px) and (max-width:800px) {
+    
+    .typed-js{
+      position:relative;
+      right: 230px;
+      bottom: 140px;
+      width: 80%;
+    }
+    .start-your{
+      padding-left: 30px;
+    }
+    .fitness{
+      padding-left: 30px;
+    }
+    .us{
+      padding-left: 30px;
+    }
+    .hero-para{
+      padding-left: 50px;
+      
+    }
+    .hero-para{
+      position:relative;
+      right: 170px;
+    }
+    .get-started-btn{
+      position:relative;
+      right: 240px;
+    }
+    .responsive{
+      padding-left: 100px;
+    }
+    .footer-box{
+      min-height: 120vh;
+    }
+    .button-63{
+      margin-top: 20px;
+    }
+    .description-box{
+      min-height:  65vh;
+      margin-left: 70px;
+      margin-top: 100px;
+      padding: 20px;
+    }
+    .fa-brands{
+      width: 5px;
+    }
+    
+    .insta{
+      padding-left: 20px;
+    }
+    .fonts{
+      /* width: 100px; */
+      display: none;
+    }
+    
+
+    
+  }
+  @media (min-width: 801px) and (max-width: 1000px){
+    .card{
+      margin-left: 20px;
+    }
+    .typed-js{
+      position:relative;
+      right: 230px;
+      bottom: 140px;
+      width: 80%;
+    }
+    .start-your{
+      padding-left: 30px;
+    }
+    .fitness{
+      padding-left: 30px;
+    }
+    .us{
+      padding-left: 30px;
+    }
+    .hero-para{
+      padding-left: 50px;
+      
+    }
+    .hero-para{
+      width: 400px;
+      position:relative;
+      right: 170px;
+    }
+    .get-started-btn{
+      position:relative;
+      right: 240px;
+    }
+    .footer-img{
+      height: 20vh;
+      position: relative;
+      top: 30px;
+    }
+    .fonts{
+     padding: 10px;
+    }
+    .button-63{
+      margin-top: 20px;
+
+    }
+    .description-box{
+      width: 90%;
+      min-height:  50vh;
+      margin-left: 20px;
+      margin-top: 100px;
+      padding: 20px;
+    }
+    .fa-brands-1{
+      width: 5px;
+    }
+    .insta{
+      padding-left: 20px;
+    }
+    .responsive{
+      padding-left: 200px;
+    }
+    
+    
+  }
+  @media (min-width: 1001px) and (max-width: 1200px){
+    .start-your{
+      color: red;
+    }
+    .get-started-btn{
+      position:relative;
+      right: 120px;
+    }
+    .responsive{
+      padding-left: 80px;
+    }
+    
+    .description-box{
+      width: 90%;
+      min-height:  40vh;
+      margin-left: 20px;
+      margin-top: 100px;
+      padding: 20px;
+    }
+  }
