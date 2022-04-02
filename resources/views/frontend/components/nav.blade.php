@@ -21,9 +21,11 @@
           <li class="nav-item">
            
               
+              <div>
                 <a href="{{ route('login') }}" class="text-sm text-gray-700 dark:text-gray-500 underline">
                   <button class="button-63" role="button">Login</button>
                 </a>
+              </div>
                 
             
           </li>
@@ -36,10 +38,12 @@
             
           </li>
           <li class="nav-item">
+          
             <a href="" class="nav-link">
-            <i class="fa-solid  fa-2x fa-cart-shopping"></i>
-
-            </a>
+              <i class="fa-solid  fa-2x fa-cart-shopping"></i>
+  
+              </a>
+           
           </li>
         </ul>
       </div>

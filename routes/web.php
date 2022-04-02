@@ -20,6 +20,9 @@ Route::get('/', function () {
 Route::get('/trainer', function () {
     return view('frontend.trainer.trainer');
 });
+Route::get('/product', function () {
+    return view('frontend.productDetail.detail');
+});
 // Route::get('register', function () {
 //     return view('frontend.register');
 // });
